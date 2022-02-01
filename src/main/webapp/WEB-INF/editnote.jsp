@@ -17,7 +17,7 @@
         <form action="note" method="post">
             
         <label for="title">Title:</label>
-        <input type="text" name=title" id="title" placeholder="Title">
+        <input type="text" name="title" id="title" placeholder="Title">
         <br>
         <label for='content'>Contents:</label>
         <input type="text" name="content" id="content" placeholder="Content">
