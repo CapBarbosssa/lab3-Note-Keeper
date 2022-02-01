@@ -14,7 +14,7 @@
     <body>
         <h1>Simple Note Keeper</h1>
         <h2>Edit Note</h2>
-        <form action="note" method="">
+        <form action="note" method="post">
             
         <label for="title">Title:</label>
         <input type="text" name=title" id="title" placeholder="Title">
